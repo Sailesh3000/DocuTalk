@@ -1,7 +1,6 @@
 # DocuTalk
  Chat with Multiple PDFs using Langchain and Gemini Pro
 
-````markdown
 # 📄 Chat With Multiple PDFs using Google Gemini & LangChain
 
 This project is an end-to-end application that allows you to chat with multiple PDF documents simultaneously. It leverages the power of Google's Gemini Pro model, LangChain for orchestration, and a Streamlit-based user interface for a seamless experience. 🤖
@@ -141,5 +140,4 @@ Once your environment is set up, you can start the application.
 
 Contributions are welcome\! If you have suggestions or want to improve the project, feel free to open a pull request or an issue.
 
-```
 ```
