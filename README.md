@@ -7,8 +7,6 @@ This project is an end-to-end application that allows you to chat with multiple 
 
 The application converts the content of uploaded PDF files into vector embeddings, enabling efficient similarity searches to find the most relevant information for answering user queries.
 
-![Demo GIF](https://your-gif-url-here.com/demo.gif)
-*(Add a GIF or screenshot of your application here)*
 
 ---
 
